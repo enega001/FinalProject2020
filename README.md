@@ -1,2 +1,2 @@
-# FinalProject2020
+# Loose Fruit
 Fruit Loose project for DAC Final Degree Show
