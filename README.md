@@ -1,2 +1,2 @@
 # Loose Fruit
-Fruit Loose project for DAC Final Degree Show
+Third Year Project for DAC (Digital Arts Computing) Final Degree Show 2020. University of Goldsmiths 
