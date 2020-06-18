@@ -7,4 +7,5 @@ However, I wanted anyone to be able to see what the piece would look like if it 
 
 It is up to you when the unmusical fruit let loose and start having a boogie!
 
+![](/images/ally_project.png)
 
