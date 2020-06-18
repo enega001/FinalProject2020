@@ -6,6 +6,3 @@ In order to interact with Loose Fruit (unfortunatly without the fruit as it is a
 However, I wanted anyone to be able to see what the piece would look like if it was to be physically exhibited. So I uploaded a folder called FinalProject2020 which contains all the work in progress files (such as videos and screenshots of code) starting from the initial prototype all the way to the final version. The final version is a video that shows what it would look like and how people would interact with it. 
 
 It is up to you when the unmusical fruit let loose and start having a boogie!
-
-![GitHub Logo](/images/ally_project.png)
-Format: ![Alt Text](url)
